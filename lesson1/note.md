@@ -3,9 +3,9 @@
 This section covers Chapter 1 of Head First Go
 
 ### 1. Introduction and setting up
-- Define your own package
+- Define your own package: `go mod init example/hello`
      + When your code imports packages contained in other modules, you manage those dependencies through your code's own module. That module is defined by a go.mod file that tracks the modules that provide those packages. That go.mod file stays with your code, including in your source code repository.
-- Call code in an external package
+- Call code in an external package: `go mod tidy`
      + When adding an external module as a requirement, a go.sum file is created mofor use in authenticating the module
 
 ### 2. Syntax basics

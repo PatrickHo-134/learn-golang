@@ -1,7 +1,7 @@
-## Lesson 2
+# Lesson 2
 This section covers Chapter 2 of Head First Go
 
-### Content covered
+## Content covered
 - Conditional statements
 - Block and variable scope
 - Short varialbe declaration
@@ -9,7 +9,7 @@ This section covers Chapter 2 of Head First Go
 - Loops
 
 
-### Key notes:
+## Key notes:
 - methods: functions that are associated with values of a given type. Go methods are kind of like the methods that you may have seen attached to “objects” in other languages, but they’re a bit simpler.
 - Go doesn’t allow us to declare a variable unless we use it.
 - Go treats everything from a `//` marker to the end of the line as a comment—and ignores it.

@@ -27,8 +27,19 @@ Happy learning!
 - Pointer types
 - Using pointers with functions
 
+## Lesson 4
+- Creating packages
+- Constants exported by packages
+- Installing program executables with “go install”
+- Setting GOPATH
+- Downloading and installing packages with "go get"
+- Reading package documentation with "go doc"
+- Documenting your packages with doc comments
+
+
 
 # Resources:
 - [Head First Go](https://learning.oreilly.com/library/view/head-first-go/9781491969540/)
 - [Go Tutorial](https://go.dev/doc/tutorial/)
-- A very good article which covers all key concepts of Golang: [Key Golang Concepts You Should Learn as a Beginner Go Developer](Key Golang Concepts You Should Learn as a Beginner Go Developer)
+- A very good article which covers all key concepts of Golang: [Key Golang Concepts You Should Learn as a Beginner Go Developer](https://www.freecodecamp.org/news/key-golang-concepts-for-beginner-go-devs/)
+-
